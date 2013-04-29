@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Rezepte>
+	<Rezept id=1>
+		<Titel>Lenchen's Schokoladenkuchen</Titel>
+		<Bilder>
+			<Bild></Bild>
+		</Bilder>
+		<Zutaten>
+			<Portionen>16</Portionen>
+			<Zutat id=1>
+				<Menge>200</Menge>
+				<Mengenheit>g</Mengenheit>
+				<Zutatname>Butter</Zutatname>
+			</Zutat>
+			<Zutat id=2>
+				<Menge>200</Menge>
+				<Mengenheit>g</Mengenheit>
+				<Zutatname>Zucker</Zutatname>
+			</Zutat>
+			<Zutat id=3>
+				<Menge>200</Menge>
+				<Mengenheit>g</Mengenheit>
+				<Zutatname>Schokolade</Zutatname>
+			</Zutat>
+			<Zutat id=4>
+				<Menge>120</Menge>
+				<Mengenheit>g</Mengenheit>
+				<Zutatname>Mehl</Zutatname>
+			</Zutat>
+			<Zutat id=5>
+				<Menge>1/2</Menge>
+				<Mengenheit>TL</Mengenheit>
+				<Zutatname>Backpulver</Zutatname>
+			</Zutat>
+			<Zutat id=6>
+				<Menge>1</Menge>
+				<Mengenheit>Pkt.</Mengenheit>
+				<Zutatname>Vanillezucker</Zutatname>
+			</Zutat>
+			<Zutat id=7>
+				<Menge>4</Menge>
+				<Mengenheit></Mengenheit>
+				<Zutatname>Ei(er)</Zutatname>
+			</Zutat>
+		</Zutaten>
+		<Zubereitung>
+		Butter und Schokolade im Wasserbad schmelzen. Eier trennen. Eiwei� steif schlagen. Eigelbe, Zucker und Vanillezucker verr�hren. Geschmolzene Butter-Schokomasse hinzuf�gen und mischen. Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen Eiwei�e vorsichtig unterheben. In eine gut gefettete Form geben. 
+Bei 180�Grad 40 � 50 Minuten backen.
+		</Zubereitung>
+		<Arbeitszeit>1 Std.</Arbeitszeit>
+		<Schwierigkeitsgrad>normal</Schwierigkeitsgrad>
+		<Brennwert>295 kcal</Brennwert>
+	</Rezept>
+</Rezepte>
